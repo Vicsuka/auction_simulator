@@ -1,0 +1,4 @@
+kep Whaam Whhep 50000 NULL Roy Lichenstein 1963
+kep Card Fault 25000 NULL Paul Cézanne 1892
+kep Think Out 15000 NULL Bruce Nauman 1993
+kep Double Lunar 190000 NULL Joan Jonas 1984

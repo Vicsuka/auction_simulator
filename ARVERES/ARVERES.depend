@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1492695799 source:c:\users\vicsukahp\documents\egyetemmasodikfelev\prog\arveres\aukcioshaz.cpp
+	"aukcioshaz.h"
+	<fstream>
+
+1490904935 z.h"
+
+1490880289 c:\users\vicsukahp\documents\egyetemmasodikfelev\prog\arveres\ember.cpp
+	"ember.h"
+
+1490896616 
+
+1490880377 c:\users\vicsukahp\documents\egyetemmasodikfelev\prog\arveres\targy.cpp
+	"targy.h"
+
+1492694475 source:c:\users\vicsukahp\documents\egyetemmasodikfelev\prog\arveres\ember.cpp
+	"ember.h"
+
+1492695865 source:c:\users\vicsukahp\documents\egyetemmasodikfelev\prog\arveres\main.cpp
+	<iostream>
+	"aukcioshaz.h"
+
+1490880126 c:\users\vicsukahp\documents\egyetemmasodikfelev\prog\arveres\aukcioshaz.cpp
+	"aukcioshaz.h"
+
+1492693989 source:c:\users\vicsukahp\documents\egyetemmasodikfelev\prog\arveres\targy.cpp
+	"targy.h"
+
+1490876040 c:\users\vicsukahp\documents\egyetemmasodikfelev\prog\arveres\memtrace.h
+	<new>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1492692753 c:\users\vicsukahp\documents\egyetemmasodikfelev\prog\arveres\aukcioshaz.h
+	"ember.h"
+	"targy.h"
+	<string>
+	<iostream>
+	<stdexcept>
+
+1490893584 >
+
+1492695087 c:\users\vicsukahp\documents\egyetemmasodikfelev\prog\arveres\ember.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1492693976 c:\users\vicsukahp\documents\egyetemmasodikfelev\prog\arveres\targy.h
+	<string>
+	<iostream>
+	"ember.h"
+
+1490917894 source:/media/mark/8AB89680B8966B09/Users/vicsukaHP/Documents/EgyetemMASODIKfelev/prog/ARVERES/aukcioshaz.cpp
+	"aukcioshaz.h"
+	"aukcioshaz.h"
+
+1490893584 /media/mark/8AB89680B8966B09/Users/vicsukaHP/Documents/EgyetemMASODIKfelev/prog/ARVERES/aukcioshaz.h
+	"ember.h"
+	"targy.h"
+	<string>
+	<iostream>
+	<stdexcept>
+	"ember.h"
+	"targy.h"
+	<string>
+	<iostream>
+	<stdexcept>
+
+1490904193 /media/mark/8AB89680B8966B09/Users/vicsukaHP/Documents/EgyetemMASODIKfelev/prog/ARVERES/ember.h
+	<string>
+	<iostream>
+	<cstdlib>
+	<string>
+	<iostream>
+	<cstdlib>
+
+1490904759 /media/mark/8AB89680B8966B09/Users/vicsukaHP/Documents/EgyetemMASODIKfelev/prog/ARVERES/targy.h
+	<string>
+	<iostream>
+	"ember.h"
+	<string>
+	<iostream>
+	"ember.h"
+
+1490906177 source:/media/mark/8AB89680B8966B09/Users/vicsukaHP/Documents/EgyetemMASODIKfelev/prog/ARVERES/ember.cpp
+	"ember.h"
+	"ember.h"
+
+1491308287 source:/media/mark/8AB89680B8966B09/Users/vicsukaHP/Documents/EgyetemMASODIKfelev/prog/ARVERES/main.cpp
+	<iostream>
+	"aukcioshaz.h"
+	<fstream>
+	<iostream>
+	"aukcioshaz.h"
+	<fstream>
+
+1490872440 /media/mark/8AB89680B8966B09/Users/vicsukaHP/Documents/EgyetemMASODIKfelev/prog/ARVERES/memtrace.h
+	<new>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1490896616 source:/media/mark/8AB89680B8966B09/Users/vicsukaHP/Documents/EgyetemMASODIKfelev/prog/ARVERES/targy.cpp
+	"targy.h"
+	"targy.h"
+

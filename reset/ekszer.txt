@@ -1,0 +1,4 @@
+ekszer Nyaklanc 30000 NULL arany
+ekszer Gyuru 5000 NULL bronz
+ekszer Fulbevalo 20000 NULL ezust
+ekszer Karkoto 2000 NULL fa
